@@ -8,5 +8,6 @@ xgboost
 joblib
 streamlit
 ipykernel
+statsmodels
 
 
