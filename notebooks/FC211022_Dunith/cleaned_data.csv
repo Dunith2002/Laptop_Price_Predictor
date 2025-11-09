@@ -838,7 +838,6 @@ Price,RAM_Expandable,RAM,RAM_TYPE(DDR),Display_type,Processor_Tier,Processor_Spe
 118965.0,1,8,5,0,0.0,4.0,1,1,1024,0,False,False,False,False,False,False,False,False,False,False,False,False,False
 524996.5,0,16,4,0,2.0,4.5,3,3,1024,0,False,False,False,False,False,True,False,False,False,True,False,False,True
 399665.0,1,16,5,1,2.0,3.0,1,1,1024,0,False,False,False,False,True,False,False,False,False,True,False,True,False
-206465.0,1,16,5,0,1.0,2.5,2,3,512,0,False,False,False,False,True,False,False,False,False,True,False,False,True
 369250.0,1,16,4,1,2.0,3.0,1,3,1024,0,False,False,False,False,False,False,False,False,False,False,False,False,True
 125996.5,1,8,4,0,0.0,3.0,2,1,256,0,False,False,False,False,True,False,False,False,False,True,False,True,False
 461965.0,1,16,4,1,1.0,5.0,1,2,512,0,False,False,False,False,False,False,False,True,False,True,False,True,False
@@ -946,7 +945,6 @@ Price,RAM_Expandable,RAM,RAM_TYPE(DDR),Display_type,Processor_Tier,Processor_Spe
 223965.0,1,8,4,0,1.0,4.0,2,3,512,0,False,False,False,False,False,True,False,False,False,True,False,False,True
 171465.0,0,8,4,0,0.0,4.0,2,1,512,0,False,False,False,False,True,False,False,False,False,True,False,True,False
 286965.0,1,16,4,0,1.0,4.5,2,3,512,0,False,False,False,False,False,True,False,False,False,True,False,False,True
-213465.0,1,16,5,0,1.0,2.5,2,3,512,0,False,False,False,False,True,False,False,False,False,True,False,False,True
 188296.5,1,8,4,0,1.0,4.0,1,1,512,0,False,False,False,False,True,False,False,False,False,True,False,True,False
 524965.0,1,16,5,0,2.0,2.0,3,4,1024,0,False,False,False,False,False,True,False,False,False,True,False,False,True
 255465.0,1,16,5,0,1.0,1.5,2,3,512,0,False,False,False,False,False,True,False,False,False,True,False,False,True
@@ -1616,7 +1614,6 @@ Price,RAM_Expandable,RAM,RAM_TYPE(DDR),Display_type,Processor_Tier,Processor_Spe
 339465.0,0,16,4,0,2.0,4.5,2,3,1024,0,False,False,False,False,False,True,False,False,False,True,False,False,True
 104965.0,1,4,4,1,0.0,1.0,2,1,0,1024,False,False,False,False,True,False,False,False,False,True,False,True,False
 118965.0,1,4,4,0,0.0,2.0,2,1,0,1024,False,False,False,False,True,False,False,False,False,True,False,True,False
-370762.0,1,16,4,1,2.0,2.5,2,3,512,1024,False,False,False,True,False,False,False,False,False,True,False,False,True
 132265.0,0,8,4,1,1.0,3.0,1,2,0,1024,False,False,False,True,False,False,False,False,False,False,False,False,False
 447965.0,0,16,4,1,2.0,3.5,2,3,1024,0,False,False,False,False,True,False,False,False,False,False,False,False,True
 142439.5,1,4,4,1,1.0,2.5,2,3,0,1024,False,False,True,False,False,False,False,False,False,True,False,False,False
@@ -2510,7 +2507,6 @@ Price,RAM_Expandable,RAM,RAM_TYPE(DDR),Display_type,Processor_Tier,Processor_Spe
 293965.0,1,16,4,0,2.0,4.5,2,3,1024,0,False,False,False,True,False,False,False,False,False,True,False,False,True
 209965.0,1,16,5,0,2.0,4.5,1,2,512,0,False,False,False,False,False,True,False,False,False,True,False,True,False
 385000.0,1,32,5,0,2.0,3.0,2,1,1024,0,False,False,False,False,True,False,False,False,False,False,False,False,True
-228977.0,1,32,5,0,1.0,3.0,2,3,512,0,False,False,False,False,True,False,False,False,False,True,False,False,True
 90965.0,1,8,4,0,0.0,1.0,1,1,512,0,False,False,False,False,True,False,False,False,False,True,False,True,False
 304465.0,1,16,4,0,2.0,2.5,2,3,512,0,False,False,False,False,False,False,False,False,False,True,False,False,True
 255465.0,1,16,5,0,2.0,3.0,2,3,512,0,False,False,False,False,False,False,False,False,False,False,False,False,True
@@ -2602,7 +2598,6 @@ Price,RAM_Expandable,RAM,RAM_TYPE(DDR),Display_type,Processor_Tier,Processor_Spe
 185465.0,1,8,4,1,1.0,1.5,2,2,0,1024,False,False,False,False,False,False,False,False,False,True,False,False,True
 402465.0,1,16,5,0,2.0,4.5,3,3,1024,0,False,False,False,False,False,False,False,False,False,True,False,False,True
 160646.5,1,8,4,0,0.0,4.0,1,2,256,0,False,False,False,True,False,False,False,False,False,True,False,True,False
-105070.0,1,8,3,1,0.0,2.0,2,1,0,1024,False,False,False,False,False,False,False,False,False,True,False,True,False
 115804.5,1,4,3,1,0.0,2.0,2,1,0,500,False,False,False,True,False,False,False,False,False,True,False,True,False
 112637.0,0,8,5,0,0.0,2.5,2,1,256,0,True,False,False,False,False,False,False,False,False,False,False,False,False
 269465.0,0,8,4,1,2.0,1.5,3,2,512,0,False,False,False,False,False,False,True,False,False,True,False,True,False
@@ -2677,7 +2672,6 @@ Price,RAM_Expandable,RAM,RAM_TYPE(DDR),Display_type,Processor_Tier,Processor_Spe
 138428.5,0,8,4,1,1.0,1.5,1,1,512,0,False,False,False,False,False,False,False,False,False,True,False,True,False
 87465.0,0,4,4,1,0.0,3.0,2,1,0,1024,False,False,False,True,False,False,False,False,False,False,False,False,False
 263364.5,1,16,4,1,2.0,2.5,2,3,256,1024,True,False,False,False,False,False,False,False,False,True,False,False,True
-55965.0,1,4,3,1,0.0,1.5,2,1,0,500,True,False,False,False,False,False,False,False,False,True,False,True,False
 101465.0,0,8,4,1,1.0,2.0,1,2,256,1024,False,False,False,True,False,False,False,False,False,False,False,False,False
 145215.0,0,8,4,1,1.0,2.0,2,2,512,0,False,False,False,True,False,False,False,False,False,False,False,False,False
 192465.0,0,8,4,1,1.0,2.5,2,3,0,1024,False,False,False,True,False,False,False,False,False,True,False,False,True
@@ -2922,7 +2916,6 @@ Price,RAM_Expandable,RAM,RAM_TYPE(DDR),Display_type,Processor_Tier,Processor_Spe
 230615.0,0,16,4,1,1.0,4.0,1,2,512,0,False,False,False,True,False,False,False,False,False,True,False,True,False
 223489.0,0,8,4,1,1.0,2.5,2,2,0,1024,False,False,False,True,False,False,False,False,False,True,False,False,True
 104965.0,0,4,4,1,0.0,2.0,2,1,0,1024,False,False,False,True,False,False,False,False,False,True,False,True,False
-80496.5,0,4,3,1,0.0,1.0,2,1,0,500,True,False,False,False,False,False,False,False,False,True,False,True,False
 220465.0,1,8,4,1,1.0,2.5,2,3,256,1024,False,False,False,True,False,False,False,False,False,True,False,False,True
 209996.5,0,8,4,1,2.0,3.0,1,2,512,0,False,False,False,False,False,False,False,False,False,True,False,True,False
 244965.0,1,8,4,1,1.0,3.0,2,3,256,1024,False,False,False,False,True,False,False,False,False,False,False,False,True
@@ -3153,7 +3146,6 @@ Price,RAM_Expandable,RAM,RAM_TYPE(DDR),Display_type,Processor_Tier,Processor_Spe
 174965.0,1,4,3,1,1.0,2.0,2,1,0,1024,False,False,False,True,False,False,False,False,False,True,False,False,True
 234115.0,0,8,4,1,2.0,2.5,2,3,256,1024,True,False,False,False,False,False,False,False,False,False,False,False,True
 270039.0,0,4,4,1,0.0,2.0,2,1,128,0,False,False,False,True,False,False,False,False,False,True,False,True,False
-68246.5,1,4,3,0,0.0,2.0,2,1,0,500,False,False,False,False,False,False,False,False,False,True,False,True,False
 475615.0,0,16,4,0,2.0,4.5,2,3,1024,0,False,False,False,False,False,False,False,False,False,False,False,False,True
 158459.0,1,4,4,1,1.0,2.5,2,2,0,1024,False,False,False,False,False,False,False,False,False,True,False,False,True
 263182.5,0,8,4,1,2.0,2.5,1,1,0,1024,False,False,True,False,False,False,False,False,False,True,False,True,False
@@ -3162,7 +3154,6 @@ Price,RAM_Expandable,RAM,RAM_TYPE(DDR),Display_type,Processor_Tier,Processor_Spe
 271215.0,1,8,3,1,2.0,2.5,2,2,0,1024,False,False,False,True,False,False,False,False,False,True,False,False,True
 209268.5,0,8,4,1,0.0,1.5,1,1,512,0,False,False,False,False,True,False,False,False,False,True,False,True,False
 139615.0,1,4,3,1,1.0,2.0,2,1,0,1024,False,False,False,True,False,False,False,False,False,True,False,True,False
-56035.0,0,4,3,1,0.0,1.5,1,1,0,500,False,False,False,False,False,False,False,False,False,True,False,True,False
 325465.0,1,8,4,1,2.0,3.0,2,3,128,1024,False,False,False,False,False,True,False,False,False,True,False,False,True
 216965.0,0,8,4,1,2.0,4.5,1,2,512,0,False,False,False,False,False,True,False,False,False,True,False,False,True
 156212.0,1,8,4,1,1.0,2.5,1,2,512,0,False,False,True,False,False,False,False,False,False,True,False,True,False
@@ -3279,7 +3270,6 @@ Price,RAM_Expandable,RAM,RAM_TYPE(DDR),Display_type,Processor_Tier,Processor_Spe
 202965.0,0,8,4,0,1.0,2.5,2,3,512,0,False,False,False,False,False,False,True,False,False,True,False,False,True
 111965.0,0,8,4,1,0.0,2.0,2,1,0,1024,False,False,False,False,False,False,False,False,False,True,False,True,False
 76996.5,0,4,4,1,0.0,2.5,1,1,0,1024,False,False,False,False,True,False,False,False,False,True,False,True,False
-358050.0,1,16,4,1,2.0,2.0,1,2,512,0,False,False,False,True,False,False,False,False,False,True,False,False,True
 332115.0,0,16,4,0,2.0,4.5,1,3,1024,0,False,False,False,False,False,False,False,False,False,False,False,False,True
 297465.0,1,16,4,1,2.0,3.0,2,3,0,1024,False,False,False,False,False,True,False,False,False,True,False,False,True
 311465.0,0,16,4,0,2.0,4.5,3,4,1024,0,False,False,False,False,False,True,False,False,False,True,False,False,True
@@ -3482,7 +3472,6 @@ Price,RAM_Expandable,RAM,RAM_TYPE(DDR),Display_type,Processor_Tier,Processor_Spe
 181618.5,0,8,4,0,1.0,1.5,2,2,512,0,False,False,False,False,False,False,False,False,False,True,False,True,False
 332465.0,0,16,5,0,2.0,5.0,1,2,1024,0,False,False,False,False,False,True,False,False,False,True,False,True,False
 458465.0,0,16,5,0,2.0,5.0,1,4,1024,0,False,False,False,False,False,False,False,False,False,False,False,False,False
-59465.0,0,4,3,1,0.0,2.0,1,1,0,500,True,False,False,False,False,False,False,False,False,True,False,True,False
 489965.0,1,16,4,1,2.0,3.0,2,3,128,1024,False,False,False,False,False,False,False,False,False,True,False,False,True
 153965.0,0,8,4,1,1.0,1.5,2,1,0,1024,False,False,False,False,False,False,False,False,False,True,False,True,False
 166215.0,1,8,4,1,1.0,1.5,1,1,512,0,False,False,False,False,False,False,False,False,False,True,False,True,False
