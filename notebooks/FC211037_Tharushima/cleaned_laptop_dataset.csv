@@ -1,4 +1,4 @@
-Brand,Price,Processor_Brand,RAM_Expandable,RAM_Size (GB),RAM_TYPE(DDR),Ghz,Display_type,GPU_Brand,SSD(GB),HDD(GB),Display_Tier,GPU_Tier,Processor_Tier,Processor_Speed(Ghz)
+Brand,Price,Processor_Brand,RAM_Expandable,RAM_Size (GB),RAM_TYPE(DDR),Ghz,Display_type,GPU_Brand,SSD(GB),HDD(GB),Display_Tier,GPU_Tier,Processor_Category,Processor_Speed(Ghz)
 Lenovo,127011.5,AMD,Yes,8,4,4.0,LCD,AMD,512.0,0,Large,Entry-level,Mid-End,4.0
 Dell,274750.0,Intel,Yes,16,5,3.3,LCD,NVIDIA,512.0,0,Large,Mid-end,Other,3.5
 Hp,194215.0,Intel,Yes,8,4,4.2,LCD,Intel,512.0,0,Large,Low-end,Other,4.0
